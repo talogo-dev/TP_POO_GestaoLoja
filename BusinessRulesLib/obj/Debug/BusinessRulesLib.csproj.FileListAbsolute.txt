@@ -1,0 +1,13 @@
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\bin\Debug\BusinessRulesLib.dll
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\bin\Debug\BusinessRulesLib.pdb
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\obj\Debug\BusinessRulesLib.csproj.AssemblyReference.cache
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\obj\Debug\BusinessRulesLib.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\obj\Debug\BusinessRulesLib.dll
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\obj\Debug\BusinessRulesLib.pdb
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\bin\Debug\BusinessObjectsLib.dll
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\bin\Debug\DataLib.dll
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\bin\Debug\Utils.dll
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\bin\Debug\BusinessObjectsLib.pdb
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\bin\Debug\DataLib.pdb
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\obj\Debug\Business.9E8B3F0A.Up2Date
+C:\Users\Marco\Desktop\V7\BusinessRulesLib\bin\Debug\Utils.pdb

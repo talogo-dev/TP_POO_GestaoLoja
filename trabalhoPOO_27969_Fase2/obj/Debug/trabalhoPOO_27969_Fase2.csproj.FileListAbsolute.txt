@@ -1,0 +1,16 @@
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\bin\Debug\trabalhoPOO_27969_Fase2.exe.config
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\bin\Debug\trabalhoPOO_27969_Fase2.exe
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\bin\Debug\trabalhoPOO_27969_Fase2.pdb
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\bin\Debug\BusinessObjectsLib.dll
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\bin\Debug\BusinessRulesLib.dll
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\obj\Debug\trabalhoPOO_27969_Fase2.csproj.AssemblyReference.cache
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\obj\Debug\trabalhoPOO_27969_Fase2.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\obj\Debug\trabalho.017DC711.Up2Date
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\obj\Debug\trabalhoPOO_27969_Fase2.exe
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\obj\Debug\trabalhoPOO_27969_Fase2.pdb
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\bin\Debug\Utils.dll
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\bin\Debug\BusinessObjectsLib.pdb
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\bin\Debug\BusinessRulesLib.pdb
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\bin\Debug\DataLib.dll
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\bin\Debug\DataLib.pdb
+C:\Users\Marco\Desktop\V7\trabalhoPOO_27969_Fase2\bin\Debug\Utils.pdb

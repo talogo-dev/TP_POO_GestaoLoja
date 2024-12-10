@@ -1,0 +1,13 @@
+C:\Users\Marco\Desktop\V7\Utils\bin\Debug\Utils.dll
+C:\Users\Marco\Desktop\V7\Utils\bin\Debug\Utils.pdb
+C:\Users\Marco\Desktop\V7\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\Marco\Desktop\V7\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\V7\Utils\obj\Debug\Utils.dll
+C:\Users\Marco\Desktop\V7\Utils\obj\Debug\Utils.pdb
+C:\Users\Marco\Desktop\V7\Utils\bin\Debug\BusinessObjectsLib.dll
+C:\Users\Marco\Desktop\V7\Utils\bin\Debug\BusinessObjectsLib.pdb
+C:\Users\Marco\Desktop\V7\Utils\obj\Debug\Utils.csproj.Up2Date
+C:\Users\Marco\Desktop\V7\Utils\bin\Debug\BusinessRulesLib.dll
+C:\Users\Marco\Desktop\V7\Utils\bin\Debug\DataLib.dll
+C:\Users\Marco\Desktop\V7\Utils\bin\Debug\BusinessRulesLib.pdb
+C:\Users\Marco\Desktop\V7\Utils\bin\Debug\DataLib.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marco\\Desktop\\V7\\trabalhoPOO_27969_Fase2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4687D911-803C-40D2-930A-79F88140DCF9}|trabalhoPOO_27969_Fase2.csproj|c:\\users\\marco\\desktop\\v7\\trabalhopoo_27969_fase2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4687D911-803C-40D2-930A-79F88140DCF9}|trabalhoPOO_27969_Fase2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CE6BB5-374F-4ED0-987F-5FD3BF6A7C1F}|..\\Utils\\Utils.csproj|c:\\users\\marco\\desktop\\v7\\utils\\myvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyValidations.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\V7\\Utils\\MyValidations.cs",
+              "RelativeDocumentMoniker": "..\\Utils\\MyValidations.cs",
+              "ToolTip": "C:\\Users\\Marco\\Desktop\\V7\\Utils\\MyValidations.cs",
+              "RelativeToolTip": "..\\Utils\\MyValidations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:33:14.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\V7\\trabalhoPOO_27969_Fase2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Marco\\Desktop\\V7\\trabalhoPOO_27969_Fase2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwGMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:32:42.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
